@@ -119,4 +119,3 @@ gcc -o main -I ./ -L ./ -lhello -llist#头文件路径./，动态链接库路径
 | -W    | 编译时显示编译器认为是错误的WARN |
 
 [(87条消息) gcc 的 -g 和 -ggdb 选项_zlzlei的博客-CSDN博客](https://blog.csdn.net/zlzlei/article/details/7781617)
-

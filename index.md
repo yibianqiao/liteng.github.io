@@ -1,10 +1,7 @@
 # hello world
 
-## 二级标题
+[cmake](https://yibianqiao.github.io/tool/cmake)
 
-### 三级标题
+[debian](https://yibianqiao.github.io/tool/debian)
 
-#### 四级标题
-
-[C](https://yibianqiao.github.io/C/C)
-[gcc](https://yibianqiao.github.io/C/gcc)
+[gcc](https://yibianqiao.github.io/tool/gcc)
